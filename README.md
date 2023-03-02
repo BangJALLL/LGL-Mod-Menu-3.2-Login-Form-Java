@@ -66,5 +66,5 @@ It should launch the login screen and successfully launch the activity after log
 ![](https://i.imgur.com/ALFTXi2.gif)
 
 # Credits
-* Android Mod Menu: https://github.com/LGLTeam/Android-Mod-Menu
-* Android Login Form Java: https://github.com/LGLTeam/Android-Login-Form-Java
+* Android Mod Menu by LGLTeam: https://github.com/LGLTeam/Android-Mod-Menu
+* Android Login Form Java by LGLTeam: https://github.com/LGLTeam/Android-Login-Form-Java
