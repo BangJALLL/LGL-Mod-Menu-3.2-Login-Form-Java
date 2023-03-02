@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
     //Only if you have changed MainActivity to yours and you wanna call game's activity.
     public String GameActivity = "com.unity3d.player.UnityPlayerActivity";
     public boolean hasLaunched = false;
+    public static String URL = "https://example.com/login.php";
 
     //To call onCreate, please refer to README.md
     @Override
